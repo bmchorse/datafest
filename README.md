@@ -30,3 +30,14 @@ Things that may help:
 
 #### Data management resources for biomedical research
 [A useful data management reference](http://datamanagement.hms.harvard.edu/)
+
+### Workshop
+Replicable research != Reproducible research
+
+Replicable means doing same research but with new data. But full replication isn't always feasible; limited resources for gathering new data, or the original research already sampled the universe of cases, etc. Reproducible means there's sufficient information for other people to use the same procedures/code/data/etc to make the same finding.
+
+"Quantitative data science is the creation of a computer programme to gather, transform, analyse data and present the results.
+
+Literate programming paradigm: the human-readable presentation of a programme is interspersed with computer source code that are compiled together (see Knuth 1992)."
+
+For rest of workshop, see slides/Rmd riles.
